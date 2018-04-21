@@ -1,0 +1,21 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Curso",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tabla"
+  ],
+  "author": "Diego Chicaiza",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
